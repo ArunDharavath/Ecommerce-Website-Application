@@ -1,4 +1,4 @@
-# Ecommerce-Website-Application
+# eCommerce-Website-Application
 eCommerce Website project from Brad Traversy's course
 
 To the viewers of my project repo,
